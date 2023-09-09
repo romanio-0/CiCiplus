@@ -1,0 +1,7 @@
+# ninja log v5
+3	4193	7159723612887996	CMakeFiles/CiCiplus.dir/main.c.obj	d5aafba391cd7acc
+6	1564	7159725664483825	build.ninja	18ee8fda2567f184
+4193	4958	7159723620811988	CiCiplus.exe	a8ec649cafde108b
+1	252	7159725664483825	build.ninja	18ee8fda2567f184
+3	1440	7159725680228306	CMakeFiles/CiCiplus.dir/main.c.obj	5ec6cf182f8ce649
+1440	1574	7159725681518044	CiCiplus.exe	a8ec649cafde108b

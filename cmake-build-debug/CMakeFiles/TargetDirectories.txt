@@ -1,0 +1,3 @@
+D:/ProjectIT/C/CiCiplus/cmake-build-debug/CMakeFiles/CiCiplus.dir
+D:/ProjectIT/C/CiCiplus/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/ProjectIT/C/CiCiplus/cmake-build-debug/CMakeFiles/rebuild_cache.dir
